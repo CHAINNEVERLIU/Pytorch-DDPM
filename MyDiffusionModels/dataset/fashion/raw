@@ -1,1 +1,0 @@
-请将torchvision.datasets.FashionMNIST中的download超参数设置为True下载相应数据集至本地
